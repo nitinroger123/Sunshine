@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_share">Share</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_default" translatable="false">10036</string>
+    <string name="pref_location_key" translatable="false">location</string>
+
+    <string name="pref_metric_label">Temprature Units</string>
+    <string name="pref_metric_default" translatable="false">Celcius</string>
+    <string name="pref_metric_key" translatable="false">metric</string>
+    <string name="action_preferred_location">Preferred Location</string>
+
+</resources>

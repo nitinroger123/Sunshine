@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Metrics">
+        <item>Celcius</item>
+        <item>Farenheit</item>
+    </string-array>
+
+
+    <string-array name="MetricValues">
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+
+</resources>
